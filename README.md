@@ -1,1 +1,1 @@
-#CV README.md
+https://lexggwp.github.io/rsschool-cv/
