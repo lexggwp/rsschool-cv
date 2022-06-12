@@ -82,12 +82,11 @@ h1, h2, h3, h4, h5, h6 {
 /* Header */
 .header {
     padding-top: 20px;
-    background: #261228;
+    background: #f5f4f4;
 }
 
 .header-menu {
     padding-top: 20px;
-    background: #261228;
 }
 
 .header-menu__list {
@@ -109,11 +108,13 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     max-width: 40px;
     max-height: 40px;
-    opacity: 0.5;
+    opacity: 0.7;
+    transition-duration: 1s;
 }
 
 .header-menu__link a img:hover {
     opacity: 1;
+
 }
 
 .header-bottom {
@@ -125,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-text__name {
     letter-spacing: 0.02em;
-    color: white;
+    color: black;
     font-size: 40px;
     font-weight: 1000;
     max-width: 100px;
